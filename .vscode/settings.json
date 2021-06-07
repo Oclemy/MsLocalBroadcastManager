@@ -1,0 +1,31 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#06350A",
+        "titleBar.activeBackground": "#094B0E",
+        "titleBar.activeForeground": "#F3FEF4"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true,
+        "**/.gradle": true,
+        ".gradle": true,
+        "**/.vscode": true,
+        ".vscode": true,
+        "**/build": true,
+        "build": true,
+        "**/.idea": true,
+        ".idea": true,
+        "app/libs": true,
+        "**/libs": true,
+        "app/*.*": true,
+        "libs": true
+    },
+    "explorerExclude.backup": null
+}
